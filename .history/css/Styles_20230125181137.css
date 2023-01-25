@@ -1,0 +1,20 @@
+.primary-color{
+    color: rgb(167, 100, 25);
+}
+.Btn-primary-color{
+    background : rgb(167, 100, 25);;
+}
+.text-primary-color1{
+    color: white;
+}
+.navbar-btn{
+    margin-left: 400px;
+}
+.banner-text{
+   
+        position:absolute;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      
+}
